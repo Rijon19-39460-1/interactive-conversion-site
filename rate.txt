@@ -1,0 +1,1 @@
+[{"rate":"feet to inch","value":"1","result":"123"},{"rate":"kilometers to meters","value":"4","result":"2"},{"rate":"inch to feet","value":"1","result":"2"},{"rate":"kilometers to meters","value":"1","result":"5"},{"rate":"meters to kilometers","value":"1","result":"100"}]
